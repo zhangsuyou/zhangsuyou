@@ -9,7 +9,8 @@
 ![Git](https://img.shields.io/badge/Git-beginner-orange?logo=git)
 
 ## 🚀 精选项目
-- **[基于轮廓生成图像的图像生成技术](https://github.com/zhangsuyou/gan-image-generation)**  
+- **[基于轮廓生成图像的图像生成技术](https://github.com/zhangsuyou/gan-image-generation)**
+  - 大创项目，正在重新搭建并上传中
   - 使用生成对抗网络实现词汇到轮廓再到图像的转换。
   - 技术栈：Python, OpenCV   
 
