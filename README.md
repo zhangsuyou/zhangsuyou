@@ -3,10 +3,10 @@
 [Switch to Chinese](README_CN.md)  
 
 ## 🔧 Tech Stack & Tools  
-![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-beginner-orange?logo=tensorflow)  
-![C++](https://img.shields.io/badge/C++-Proficient-blue?logo=c%2B%2B)  
-![Git](https://img.shields.io/badge/Git-beginner-orange?logo=git)  
+![Python](https://img.shields.io/badge/Python-Expert-green?logo=python) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-beginner-orange?logo=tensorflow) 
+![C++](https://img.shields.io/badge/C++-Proficient-blue?logo=c%2B%2B) 
+![Git](https://img.shields.io/badge/Git-beginner-orange?logo=git) 
 
 *Undergraduate degree in Automation from [Qingdao University](https://www.qdu.edu.cn/)*  
 *Worked at [Bank of Chengdu](https://www.bocd.com.cn/index.html) after graduation*  
