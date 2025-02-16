@@ -1,29 +1,30 @@
-## 你吼，我是张稣佑！
+## 你好，我是张稣佑！
 
 [Switch to English](README.md)
 
-个人博客: [https://wangsimiao2000.github.io/](https://wangsimiao2000.github.io/)
+## 🔧 技术栈与工具
+![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-beginner-orange?logo=tensorflow)
+![C++](https://img.shields.io/badge/C++-Proficient-blue?logo=c%2B%2B)
+![Git](https://img.shields.io/badge/Git-beginner-orange?logo=git)
 
-[![Bilibili: 鄙人米奇喵](https://img.shields.io/badge/Bilibili-鄙人米奇喵-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/36913332)
-[![Steam: MickeyMiao](https://img.shields.io/badge/Steam-MickeyMiao-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/MickeyMiao/)
-[![GitHub: WangSimiao2000](https://img.shields.io/badge/GitHub-WangSimiao2000-181717?style=for-the-badge&logo=github)](https://github.com/WangSimiao2000)
+*本科毕业于 [青岛大学](https://www.qdu.edu.cn/)自动化专业*
+*毕业后于[成都银行](https://www.bocd.com.cn/index.html)工作*
 
-*硕士毕业于 [利兹大学](https://www.leeds.ac.uk) 高性能图形与游戏工程专业*  
-*本科毕业于 [西南石油大学](https://www.swpu.edu.cn) 软件工程专业*
+## 🚀 精选项目
+- **[基于轮廓生成图像的图像生成技术](https://github.com/zhangsuyou/gan-image-generation)**
+  - 大学生创新创业项目，正在重新搭建并上传中
+  - 使用生成对抗网络实现词汇到轮廓再到图像的转换。
+  - 技术栈：Python, OpenCV   
 
-- **代词：** 他 / 他
-- **编程语言：** C++，C#，Java，Python，HTML，CSS
-- **工具：** Git，VSCode
-- **教育背景：** 
-  - 🎓 高性能图形与游戏工程硕士学位
-  - 🎓 软件工程本科
+## 📈 GitHub活跃统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangsuyou&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsuyou&layout=compact)
 
-![WangSimiao2000 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=WangSimiao2000&show_icons=true&hide=stars,issues)
-
-- 🎮 我喜欢玩各种类型的游戏，但最喜欢的是 **Minecraft**。
-- 🧩 有些有趣的算法题我也挺喜欢去研究的。
-- 📚 目前正在学 **计算机图形学** , 不过还比较菜。
-- 🖥️ 我曾经搭建过一个 **Hexo 博客**，但早就没有维护了, 可能已经要过期了。
+## 📫 联系我
+- 📧 邮箱：suyou_zhang0202@163.com  
+- 💼 LinkedIn：[张稣佑的LinkedIn](https://linkedin.com/in/zhangsuyou)暂时没有 
+- 🌐 个人博客：[技术笔记与思考](https://zhangsuyou.github.io)
 
 下载个人简历:
 
