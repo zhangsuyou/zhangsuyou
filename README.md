@@ -4,17 +4,14 @@
 
 ## 🔧 技术栈与工具
 ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-orange?logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-beginner-orange?logo=tensorflow)
 ![C++](https://img.shields.io/badge/C++-Proficient-blue?logo=c%2B%2B)
-![Git](https://img.shields.io/badge/Git-熟练-red?logo=git)
+![Git](https://img.shields.io/badge/Git-beginner-orange?logo=git)
 
 ## 🚀 精选项目
-- **[基于GAN的图像生成技术](https://github.com/zhangsuyou/gan-image-generation)**  
-  - 使用生成对抗网络实现草图到高清图像的转换，准确率提升15%。  
-  - 技术栈：Python, TensorFlow, OpenCV  
-- **[金融风控模型](https://github.com/zhangsuyou/risk-model)**  
-  - 结合银行工作经验开发的贷款风险评估系统，准确率89%。  
-  - 技术栈：Pandas, Scikit-learn, Flask  
+- **[基于轮廓生成图像的图像生成技术](https://github.com/zhangsuyou/gan-image-generation)**  
+  - 使用生成对抗网络实现词汇到轮廓再到图像的转换。
+  - 技术栈：Python, OpenCV   
 
 ## 📈 GitHub活跃统计
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangsuyou&show_icons=true&theme=radical)  
