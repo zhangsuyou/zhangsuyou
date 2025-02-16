@@ -25,7 +25,3 @@
 - 📧 邮箱：suyou_zhang0202@163.com  
 - 💼 LinkedIn：[张稣佑的LinkedIn](https://linkedin.com/in/zhangsuyou)暂时没有 
 - 🌐 个人博客：[技术笔记与思考](https://zhangsuyou.github.io)
-
-下载个人简历:
-
-[![下载我的简历](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./WangSimiao.pdf)
