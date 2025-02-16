@@ -21,8 +21,7 @@
 ## 📫 联系我
 - 📧 邮箱：suyou_zhang0202@163.com  
 - 💼 LinkedIn：[张稣佑的LinkedIn](https://linkedin.com/in/zhangsuyou)暂时没有 
-- 🌐 个人博客：[技术笔记与思考](https://zhangsuyou.github.io)（可选，用GitHub Pages搭建）
-
+- 🌐 个人博客：[技术笔记与思考](https://zhangsuyou.github.io)
 <!--
 **zhangsuyou/zhangsuyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
