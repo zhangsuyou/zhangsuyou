@@ -8,6 +8,9 @@
 ![C++](https://img.shields.io/badge/C++-Proficient-blue?logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/Git-beginner-orange?logo=git)
 
+*本科毕业于 [青岛大学](https://www.qdu.edu.cn/)自动化专业*
+*毕业后于[成都银行](https://www.bocd.com.cn/index.html)工作*
+
 ## 🚀 精选项目
 - **[基于轮廓生成图像的图像生成技术](https://github.com/zhangsuyou/gan-image-generation)**
   - 大创项目，正在重新搭建并上传中
