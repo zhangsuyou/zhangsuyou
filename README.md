@@ -1,4 +1,4 @@
-- ## Hi, I'm zhangsuyou!  
+## Hi, I'm zhangsuyou!  
 
 [Switch to Chinese](README_CN.md)  
 
