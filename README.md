@@ -1,4 +1,6 @@
-# 👋 你好，我是张稣佑！
+## Hi, I'm zhangsuyou!
+
+[切换成中文](README_CN.md)
 
 ## 🔧 技术栈与工具
 ![Python](https://img.shields.io/badge/Python-Expert-green?logo=python)
